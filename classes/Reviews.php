@@ -72,13 +72,17 @@ class Reviews  extends DB {
 	        $this->rating_title =  Input::get('rating_title');
 	        $this->rating_title_value=  Input::get('rating_title_value');
 
+
+
+ 
+
 	     //    if(!preg_match('/^[A-ZA-Z0-9_-]*$/', $this->title)){
       //         $this->errors[] = "Title not accepted";
 	     //    }
 		   
 		    // if(!preg_match('/^[A-ZA-Z0-9_-]/', $this->description)){
       //         $this->errors[] = "Description not accepted";
-	     //    }
+	     //    }  
 
 	     //    if (count($this->errors)) {
 	     //    	echo json_encode($this->errors);
@@ -136,7 +140,6 @@ class Reviews  extends DB {
 	}
 	
 }
-
 
 
 
