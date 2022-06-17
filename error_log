@@ -1,0 +1,137 @@
+[03-Jun-2019 03:57:56 America/Chicago] PHP Catchable fatal error:  Object of class ProductCats could not be converted to string in /home/autofactorng/stage.autofactorng.com/products.php on line 52
+[06-Jun-2019 14:57:17 Africa/Lagos] PHP Notice:  Only variables should be passed by reference in /home/autofactorng/public_html/product_desc.php on line 19
+[06-Jun-2019 14:57:17 Africa/Lagos] PHP Notice:  Undefined index: pn in /home/autofactorng/public_html/product_desc.php on line 21
+[06-Jun-2019 14:57:48 Africa/Lagos] PHP Notice:  Only variables should be passed by reference in /home/autofactorng/public_html/product_desc.php on line 20
+[06-Jun-2019 14:57:48 Africa/Lagos] PHP Notice:  Undefined index: pn in /home/autofactorng/public_html/product_desc.php on line 22
+[06-Jun-2019 14:58:33 Africa/Lagos] PHP Notice:  Only variables should be passed by reference in /home/autofactorng/public_html/product_desc.php on line 20
+[06-Jun-2019 14:58:33 Africa/Lagos] PHP Notice:  Undefined index: pn in /home/autofactorng/public_html/product_desc.php on line 22
+[06-Jun-2019 14:58:33 Africa/Lagos] PHP Notice:  Trying to get property of non-object in /home/autofactorng/public_html/product_desc.php on line 38
+[06-Jun-2019 14:58:48 Africa/Lagos] PHP Notice:  Only variables should be passed by reference in /home/autofactorng/public_html/product_desc.php on line 20
+[06-Jun-2019 14:58:48 Africa/Lagos] PHP Notice:  Undefined index: pn in /home/autofactorng/public_html/product_desc.php on line 22
+[06-Jun-2019 14:58:48 Africa/Lagos] PHP Notice:  Trying to get property of non-object in /home/autofactorng/public_html/product_desc.php on line 38
+[06-Jun-2019 14:58:59 Africa/Lagos] PHP Notice:  Only variables should be passed by reference in /home/autofactorng/public_html/product_desc.php on line 20
+[06-Jun-2019 14:58:59 Africa/Lagos] PHP Notice:  Undefined index: pn in /home/autofactorng/public_html/product_desc.php on line 22
+[06-Jun-2019 14:59:03 Africa/Lagos] PHP Notice:  Only variables should be passed by reference in /home/autofactorng/public_html/product_desc.php on line 20
+[06-Jun-2019 14:59:03 Africa/Lagos] PHP Notice:  Undefined index: pn in /home/autofactorng/public_html/product_desc.php on line 22
+[06-Jun-2019 14:59:03 Africa/Lagos] PHP Notice:  Trying to get property of non-object in /home/autofactorng/public_html/product_desc.php on line 38
+[06-Jun-2019 15:00:47 Africa/Lagos] PHP Notice:  Only variables should be passed by reference in /home/autofactorng/public_html/product_desc.php on line 20
+[06-Jun-2019 15:00:47 Africa/Lagos] PHP Notice:  Undefined index: pn in /home/autofactorng/public_html/product_desc.php on line 22
+[06-Jun-2019 15:00:52 Africa/Lagos] PHP Notice:  Only variables should be passed by reference in /home/autofactorng/public_html/product_desc.php on line 20
+[06-Jun-2019 15:00:52 Africa/Lagos] PHP Notice:  Undefined index: pn in /home/autofactorng/public_html/product_desc.php on line 22
+[06-Jun-2019 15:01:03 Africa/Lagos] PHP Notice:  Only variables should be passed by reference in /home/autofactorng/public_html/product_desc.php on line 20
+[06-Jun-2019 15:01:03 Africa/Lagos] PHP Notice:  Undefined index: pn in /home/autofactorng/public_html/product_desc.php on line 22
+[11-Aug-2020 09:04:12 Africa/Lagos] PHP Parse error:  syntax error, unexpected '=' in /home/autofactorng/public_html/vendor/illuminate/database/DatabaseManager.php on line 77
+[11-Aug-2020 09:04:47 Africa/Lagos] PHP Deprecated:  Non-static method Tags::checkStatus() should not be called statically in /home/autofactorng/public_html/classes/Tags.php on line 46
+[11-Aug-2020 09:04:47 Africa/Lagos] PHP Deprecated:  Non-static method Tags::checkStatus() should not be called statically in /home/autofactorng/public_html/classes/Tags.php on line 46
+[11-Aug-2020 09:04:47 Africa/Lagos] PHP Deprecated:  Non-static method Tags::checkStatus() should not be called statically in /home/autofactorng/public_html/classes/Tags.php on line 46
+[11-Aug-2020 09:04:47 Africa/Lagos] PHP Deprecated:  Non-static method Tags::checkStatus() should not be called statically in /home/autofactorng/public_html/classes/Tags.php on line 46
+[11-Aug-2020 09:04:47 Africa/Lagos] PHP Deprecated:  Non-static method Tags::checkStatus() should not be called statically in /home/autofactorng/public_html/classes/Tags.php on line 46
+[11-Aug-2020 09:04:47 Africa/Lagos] PHP Deprecated:  Non-static method Tags::checkStatus() should not be called statically in /home/autofactorng/public_html/classes/Tags.php on line 46
+[11-Aug-2020 09:04:47 Africa/Lagos] PHP Deprecated:  Non-static method Tags::checkStatus() should not be called statically in /home/autofactorng/public_html/classes/Tags.php on line 51
+[11-Aug-2020 09:04:47 Africa/Lagos] PHP Deprecated:  Non-static method Tags::checkStatus() should not be called statically in /home/autofactorng/public_html/classes/Tags.php on line 46
+[11-Aug-2020 09:04:47 Africa/Lagos] PHP Deprecated:  Non-static method Tags::checkStatus() should not be called statically in /home/autofactorng/public_html/classes/Tags.php on line 46
+[11-Aug-2020 09:04:47 Africa/Lagos] PHP Deprecated:  Non-static method Tags::checkStatus() should not be called statically in /home/autofactorng/public_html/classes/Tags.php on line 46
+[11-Aug-2020 09:04:47 Africa/Lagos] PHP Deprecated:  Non-static method Tags::checkStatus() should not be called statically in /home/autofactorng/public_html/classes/Tags.php on line 46
+[11-Aug-2020 09:04:47 Africa/Lagos] PHP Deprecated:  Non-static method Tags::checkStatus() should not be called statically in /home/autofactorng/public_html/classes/Tags.php on line 51
+[11-Aug-2020 09:04:47 Africa/Lagos] PHP Deprecated:  Non-static method Tags::checkStatus() should not be called statically in /home/autofactorng/public_html/classes/Tags.php on line 46
+[11-Aug-2020 09:04:47 Africa/Lagos] PHP Deprecated:  Non-static method Tags::checkStatus() should not be called statically in /home/autofactorng/public_html/classes/Tags.php on line 46
+[11-Aug-2020 09:06:04 Africa/Lagos] PHP Deprecated:  Non-static method Tags::checkStatus() should not be called statically in /home/autofactorng/public_html/classes/Tags.php on line 46
+[11-Aug-2020 09:06:04 Africa/Lagos] PHP Notice:  Undefined variable: product_cat in /home/autofactorng/public_html/products.php on line 429
+[11-Aug-2020 09:06:04 Africa/Lagos] PHP Notice:  Trying to get property 'cat_id' of non-object in /home/autofactorng/public_html/products.php on line 429
+[11-Aug-2020 09:06:04 Africa/Lagos] PHP Notice:  Undefined variable: product_sub_cat in /home/autofactorng/public_html/products.php on line 431
+[11-Aug-2020 09:06:04 Africa/Lagos] PHP Notice:  Trying to get property 'sub_cat_id' of non-object in /home/autofactorng/public_html/products.php on line 431
+[11-Aug-2020 09:06:04 Africa/Lagos] PHP Deprecated:  Non-static method Tags::checkStatus() should not be called statically in /home/autofactorng/public_html/classes/Tags.php on line 46
+[11-Aug-2020 09:06:04 Africa/Lagos] PHP Notice:  Undefined variable: product_cat in /home/autofactorng/public_html/products.php on line 429
+[11-Aug-2020 09:06:04 Africa/Lagos] PHP Notice:  Trying to get property 'cat_id' of non-object in /home/autofactorng/public_html/products.php on line 429
+[11-Aug-2020 09:06:04 Africa/Lagos] PHP Notice:  Undefined variable: product_sub_cat in /home/autofactorng/public_html/products.php on line 431
+[11-Aug-2020 09:06:04 Africa/Lagos] PHP Notice:  Trying to get property 'sub_cat_id' of non-object in /home/autofactorng/public_html/products.php on line 431
+[11-Aug-2020 09:06:04 Africa/Lagos] PHP Deprecated:  Non-static method Tags::checkStatus() should not be called statically in /home/autofactorng/public_html/classes/Tags.php on line 46
+[11-Aug-2020 09:06:04 Africa/Lagos] PHP Notice:  Undefined variable: product_cat in /home/autofactorng/public_html/products.php on line 429
+[11-Aug-2020 09:06:04 Africa/Lagos] PHP Notice:  Trying to get property 'cat_id' of non-object in /home/autofactorng/public_html/products.php on line 429
+[11-Aug-2020 09:06:04 Africa/Lagos] PHP Notice:  Undefined variable: product_sub_cat in /home/autofactorng/public_html/products.php on line 431
+[11-Aug-2020 09:06:04 Africa/Lagos] PHP Notice:  Trying to get property 'sub_cat_id' of non-object in /home/autofactorng/public_html/products.php on line 431
+[11-Aug-2020 09:06:04 Africa/Lagos] PHP Deprecated:  Non-static method Tags::checkStatus() should not be called statically in /home/autofactorng/public_html/classes/Tags.php on line 46
+[11-Aug-2020 09:06:04 Africa/Lagos] PHP Notice:  Undefined variable: product_cat in /home/autofactorng/public_html/products.php on line 429
+[11-Aug-2020 09:06:04 Africa/Lagos] PHP Notice:  Trying to get property 'cat_id' of non-object in /home/autofactorng/public_html/products.php on line 429
+[11-Aug-2020 09:06:04 Africa/Lagos] PHP Notice:  Undefined variable: product_sub_cat in /home/autofactorng/public_html/products.php on line 431
+[11-Aug-2020 09:06:04 Africa/Lagos] PHP Notice:  Trying to get property 'sub_cat_id' of non-object in /home/autofactorng/public_html/products.php on line 431
+[11-Aug-2020 09:06:04 Africa/Lagos] PHP Deprecated:  Non-static method Tags::checkStatus() should not be called statically in /home/autofactorng/public_html/classes/Tags.php on line 46
+[11-Aug-2020 09:06:04 Africa/Lagos] PHP Notice:  Undefined variable: product_cat in /home/autofactorng/public_html/products.php on line 429
+[11-Aug-2020 09:06:04 Africa/Lagos] PHP Notice:  Trying to get property 'cat_id' of non-object in /home/autofactorng/public_html/products.php on line 429
+[11-Aug-2020 09:06:04 Africa/Lagos] PHP Notice:  Undefined variable: product_sub_cat in /home/autofactorng/public_html/products.php on line 431
+[11-Aug-2020 09:06:04 Africa/Lagos] PHP Notice:  Trying to get property 'sub_cat_id' of non-object in /home/autofactorng/public_html/products.php on line 431
+[11-Aug-2020 09:06:04 Africa/Lagos] PHP Deprecated:  Non-static method Tags::checkStatus() should not be called statically in /home/autofactorng/public_html/classes/Tags.php on line 46
+[11-Aug-2020 09:06:04 Africa/Lagos] PHP Notice:  Undefined variable: product_cat in /home/autofactorng/public_html/products.php on line 429
+[11-Aug-2020 09:06:04 Africa/Lagos] PHP Notice:  Trying to get property 'cat_id' of non-object in /home/autofactorng/public_html/products.php on line 429
+[11-Aug-2020 09:06:04 Africa/Lagos] PHP Notice:  Undefined variable: product_sub_cat in /home/autofactorng/public_html/products.php on line 431
+[11-Aug-2020 09:06:04 Africa/Lagos] PHP Notice:  Trying to get property 'sub_cat_id' of non-object in /home/autofactorng/public_html/products.php on line 431
+[11-Aug-2020 09:06:04 Africa/Lagos] PHP Deprecated:  Non-static method Tags::checkStatus() should not be called statically in /home/autofactorng/public_html/classes/Tags.php on line 46
+[11-Aug-2020 09:06:04 Africa/Lagos] PHP Notice:  Undefined variable: product_cat in /home/autofactorng/public_html/products.php on line 429
+[11-Aug-2020 09:06:04 Africa/Lagos] PHP Notice:  Trying to get property 'cat_id' of non-object in /home/autofactorng/public_html/products.php on line 429
+[11-Aug-2020 09:06:04 Africa/Lagos] PHP Notice:  Undefined variable: product_sub_cat in /home/autofactorng/public_html/products.php on line 431
+[11-Aug-2020 09:06:04 Africa/Lagos] PHP Notice:  Trying to get property 'sub_cat_id' of non-object in /home/autofactorng/public_html/products.php on line 431
+[11-Aug-2020 09:06:04 Africa/Lagos] PHP Deprecated:  Non-static method Tags::checkStatus() should not be called statically in /home/autofactorng/public_html/classes/Tags.php on line 46
+[11-Aug-2020 09:06:04 Africa/Lagos] PHP Notice:  Undefined variable: product_cat in /home/autofactorng/public_html/products.php on line 429
+[11-Aug-2020 09:06:04 Africa/Lagos] PHP Notice:  Trying to get property 'cat_id' of non-object in /home/autofactorng/public_html/products.php on line 429
+[11-Aug-2020 09:06:04 Africa/Lagos] PHP Notice:  Undefined variable: product_sub_cat in /home/autofactorng/public_html/products.php on line 431
+[11-Aug-2020 09:06:04 Africa/Lagos] PHP Notice:  Trying to get property 'sub_cat_id' of non-object in /home/autofactorng/public_html/products.php on line 431
+[11-Aug-2020 09:06:04 Africa/Lagos] PHP Deprecated:  Non-static method Tags::checkStatus() should not be called statically in /home/autofactorng/public_html/classes/Tags.php on line 46
+[11-Aug-2020 09:06:04 Africa/Lagos] PHP Notice:  Undefined variable: product_cat in /home/autofactorng/public_html/products.php on line 429
+[11-Aug-2020 09:06:04 Africa/Lagos] PHP Notice:  Trying to get property 'cat_id' of non-object in /home/autofactorng/public_html/products.php on line 429
+[11-Aug-2020 09:06:04 Africa/Lagos] PHP Notice:  Undefined variable: product_sub_cat in /home/autofactorng/public_html/products.php on line 431
+[11-Aug-2020 09:06:04 Africa/Lagos] PHP Notice:  Trying to get property 'sub_cat_id' of non-object in /home/autofactorng/public_html/products.php on line 431
+[11-Aug-2020 09:06:04 Africa/Lagos] PHP Deprecated:  Non-static method Tags::checkStatus() should not be called statically in /home/autofactorng/public_html/classes/Tags.php on line 46
+[11-Aug-2020 09:06:04 Africa/Lagos] PHP Notice:  Undefined variable: product_cat in /home/autofactorng/public_html/products.php on line 429
+[11-Aug-2020 09:06:04 Africa/Lagos] PHP Notice:  Trying to get property 'cat_id' of non-object in /home/autofactorng/public_html/products.php on line 429
+[11-Aug-2020 09:06:04 Africa/Lagos] PHP Notice:  Undefined variable: product_sub_cat in /home/autofactorng/public_html/products.php on line 431
+[11-Aug-2020 09:06:04 Africa/Lagos] PHP Notice:  Trying to get property 'sub_cat_id' of non-object in /home/autofactorng/public_html/products.php on line 431
+[11-Aug-2020 09:06:04 Africa/Lagos] PHP Deprecated:  Non-static method Tags::checkStatus() should not be called statically in /home/autofactorng/public_html/classes/Tags.php on line 46
+[11-Aug-2020 09:06:04 Africa/Lagos] PHP Notice:  Undefined variable: product_cat in /home/autofactorng/public_html/products.php on line 429
+[11-Aug-2020 09:06:04 Africa/Lagos] PHP Notice:  Trying to get property 'cat_id' of non-object in /home/autofactorng/public_html/products.php on line 429
+[11-Aug-2020 09:06:04 Africa/Lagos] PHP Notice:  Undefined variable: product_sub_cat in /home/autofactorng/public_html/products.php on line 431
+[11-Aug-2020 09:06:04 Africa/Lagos] PHP Notice:  Trying to get property 'sub_cat_id' of non-object in /home/autofactorng/public_html/products.php on line 431
+[11-Aug-2020 09:06:04 Africa/Lagos] PHP Deprecated:  Non-static method Tags::checkStatus() should not be called statically in /home/autofactorng/public_html/classes/Tags.php on line 46
+[11-Aug-2020 09:06:04 Africa/Lagos] PHP Notice:  Undefined variable: product_cat in /home/autofactorng/public_html/products.php on line 429
+[11-Aug-2020 09:06:04 Africa/Lagos] PHP Notice:  Trying to get property 'cat_id' of non-object in /home/autofactorng/public_html/products.php on line 429
+[11-Aug-2020 09:06:04 Africa/Lagos] PHP Notice:  Undefined variable: product_sub_cat in /home/autofactorng/public_html/products.php on line 431
+[11-Aug-2020 09:06:04 Africa/Lagos] PHP Notice:  Trying to get property 'sub_cat_id' of non-object in /home/autofactorng/public_html/products.php on line 431
+[11-Aug-2020 09:06:19 Africa/Lagos] PHP Notice:  Only variables should be passed by reference in /home/autofactorng/public_html/product_desc.php on line 25
+[11-Aug-2020 09:06:19 Africa/Lagos] PHP Notice:  Undefined index: pn in /home/autofactorng/public_html/product_desc.php on line 27
+[11-Aug-2020 09:06:19 Africa/Lagos] PHP Deprecated:  Non-static method Tags::checkStatus() should not be called statically in /home/autofactorng/public_html/classes/Tags.php on line 46
+[11-Aug-2020 09:06:19 Africa/Lagos] PHP Notice:  Undefined variable: style in /home/autofactorng/public_html/product_desc.php on line 174
+[11-Aug-2020 09:06:19 Africa/Lagos] PHP Notice:  Undefined variable: button_action in /home/autofactorng/public_html/product_desc.php on line 174
+[11-Aug-2020 09:06:19 Africa/Lagos] PHP Notice:  Undefined variable: title in /home/autofactorng/public_html/product_desc.php on line 174
+[11-Aug-2020 09:06:19 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/autofactorng/public_html/modules/phpmailer/PHPMailerAutoload.php on line 45
+[11-Aug-2020 09:06:19 Africa/Lagos] PHP Notice:  Undefined index: user in /home/autofactorng/public_html/product_desc.php on line 415
+[11-Aug-2020 03:07:08 America/Chicago] PHP Notice:  Undefined variable: _SESSION in /home/autofactorng/public_html/add_funds.php on line 62
+[11-Aug-2020 14:34:09 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/autofactorng/public_html/modules/phpmailer/PHPMailerAutoload.php on line 45
+[11-Aug-2020 14:34:09 Africa/Lagos] PHP Fatal error:  Uncaught BadMethodCallException: Call to undefined method User::getInstance() in /home/autofactorng/public_html/vendor/illuminate/support/Traits/ForwardsCalls.php:50
+Stack trace:
+#0 /home/autofactorng/public_html/vendor/illuminate/support/Traits/ForwardsCalls.php(36): Illuminate\Database\Eloquent\Model::throwBadMethodCallException('getInstance')
+#1 /home/autofactorng/public_html/vendor/illuminate/database/Eloquent/Model.php(1732): Illuminate\Database\Eloquent\Model->forwardCallTo(Object(Illuminate\Database\Eloquent\Builder), 'getInstance', Array)
+#2 /home/autofactorng/public_html/vendor/illuminate/database/Eloquent/Model.php(1744): Illuminate\Database\Eloquent\Model->__call('getInstance', Array)
+#3 /home/autofactorng/public_html/modules/send_on_delivery_mail.php(5): Illuminate\Database\Eloquent\Model::__callStatic('getInstance', Array)
+#4 /home/autofactorng/public_html/log_orders.php(123): include('/home/autofacto...')
+#5 {main}
+  thrown in /home/autofactorng/public_html/vendor/illuminate/support/Traits/ForwardsCalls.php on line 50
+[11-Aug-2020 14:44:09 Africa/Lagos] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/autofactorng/public_html/modules/phpmailer/PHPMailerAutoload.php on line 45
+[11-Aug-2020 14:44:12 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/autofactorng/public_html/modules/phpmailer/PHPMailerAutoload.php:45) in /home/autofactorng/public_html/log_orders.php on line 127
+[11-Aug-2020 09:07:04 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fund() on null in /home/autofactorng/public_html/process_cart.php:507
+Stack trace:
+#0 {main}
+  thrown in /home/autofactorng/public_html/process_cart.php on line 507
+[11-Aug-2020 09:09:07 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'User' not found in /home/autofactorng/public_html/process_cart.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/autofactorng/public_html/process_cart.php on line 31
+[11-Aug-2020 09:09:36 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fund() on null in /home/autofactorng/public_html/process_cart.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/autofactorng/public_html/process_cart.php on line 32
+[24-Aug-2020 07:59:10 America/Chicago] PHP Notice:  Undefined variable: _SESSION in /home/autofactorng/public_html/add_funds.php on line 62
+[26-Aug-2020 08:54:28 America/Chicago] PHP Notice:  Undefined variable: _SESSION in /home/autofactorng/public_html/add_funds.php on line 62
+[26-Sep-2020 00:55:30 America/Chicago] PHP Notice:  Undefined variable: _SESSION in /home/autofactorng/public_html/add_funds.php on line 62
+[12-Oct-2020 07:20:44 America/Chicago] PHP Notice:  Undefined variable: _SESSION in /home/autofactorng/public_html/add_funds.php on line 62
+[12-Oct-2020 07:37:11 America/Chicago] PHP Notice:  Undefined variable: _SESSION in /home/autofactorng/public_html/add_funds.php on line 62
+[12-Oct-2020 11:22:51 America/Chicago] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/autofactorng/public_html/modules/phpmailer/PHPMailerAutoload.php on line 45
+[12-Oct-2020 11:22:51 America/Chicago] PHP Notice:  Undefined variable: _SESSION in /home/autofactorng/public_html/add_funds.php on line 93
