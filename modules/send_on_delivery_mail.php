@@ -9,8 +9,8 @@ $mail = new PHPMailer;
 $mail->Host = 'smtp.zoho.com';
 $mail->Port = 465;
 $mail->SMTPAuth = true;
-$mail->Username = 'orders@autofactorng.com';
-$mail->Password = 'autofactorng080816';
+$mail->Username = '';
+$mail->Password = '';
 $mail->SMTPSecure = 'ssl';
 
 $mail->From = 'orders@autofactorng.com';

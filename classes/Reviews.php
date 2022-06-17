@@ -93,8 +93,7 @@ class Reviews  extends DB {
 				$mail->Host = 'smtp.zoho.com';
 				$mail->Port = 465;
 				$mail->SMTPAuth = true;
-				$mail->Username = 'reviews@autofactorng.com';
-				$mail->Password = 'AFNGreviews0808';
+			
 				$mail->SMTPSecure = 'ssl';
 
 				$mail->From = 'reviews@autofactorng.com';
