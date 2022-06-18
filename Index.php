@@ -18,14 +18,12 @@
 					<?php } ?>
 				</select>
 			</p>
-
 			<p>
 				<label for="make">Make</label>
 				<select id="make" name="make">
 					<option>Select Make</option>
 				</select>
 			</p>
-			
 			<p>
 				<label for="model">Model</label>
 				<select id="model" name="model">
@@ -44,7 +42,6 @@
 				<img src="images/mechanic.png" />
 				<a href="call_technician"><button><i class="glyphicon glyphicon-earphone"></i> Call Now </button></a>
 			</div>
-		
 			<div class="article_tiles">
 				<!--<span>Service Pack</span>-->
 				<a href="tow_truck.php"><img src="/images/tow_truck_s.jpg" /></a>

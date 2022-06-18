@@ -14,27 +14,19 @@
 		$to = $_GET['recipient'];
 		
 		$subject = $_GET['subject'];
-		
-		
 		$mail = new PHPMailer;
-		
 		//$mail->isSMTP();
 		$mail->Host = 'smtp.zoho.com';
 		$mail->Port = 465;
 		$mail->SMTPAuth = true;
-		
         $mail->SMTPSecure = 'ssl';
-		
 		$mail->From = 'orders@autofactorng.com';
 		$mail->FromName = 'Autofactorng Team';
 		$mail->addAddress($to);
 		$mail->AddCC('care@autofactorng.com', 'Order');
 		$mail->AddCC('orders@autofactorng.com', 'Order');
-
-
 		$mail->WordWrap = 50;
 		$mail->isHTML(true);
-		
 		$mail->Subject = $subject;
 		
 		

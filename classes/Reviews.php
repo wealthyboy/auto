@@ -38,10 +38,7 @@ class Reviews  extends DB {
 	}
 	
 	
-	public function edit(){
-		
 	
-	}
 
 	public static function productReviews($product_id){
        $result = Reviews::getInstance()->find_where($product_id);
@@ -57,6 +54,7 @@ class Reviews  extends DB {
        $result = Reply::getInstance()->find_where($review_id);
 		return !empty($result) ? array_shift($result) : false;
 	}
+
 	public function saveAndMail(){
 	    
 	        $user  =  User::getInstance()->find('id',Input::get('user_id'));

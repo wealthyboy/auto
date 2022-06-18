@@ -23,8 +23,8 @@
 	require_once $_SERVER["DOCUMENT_ROOT"].'/init/autoload.php';
 	require $_SERVER["DOCUMENT_ROOT"].'/modules/phpmailer/PHPMailerAutoload.php';
 	require_once('classes/Mailchimp.php');    // You may have to modify the path based on your own configuration.
-       $api_key = "";
-       $list_id = "";
+       $api_key = null;
+       $list_id = null;
 	
 	
 	$display_form = true;
@@ -138,7 +138,6 @@
                     $_SESSION['verify_email'] =Input::get('email');
 
                 if ($data) {
-                	
             	   	    //Auto log in
             	      $user = array(
 				       'id' => $last_insert_id,

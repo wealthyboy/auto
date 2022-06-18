@@ -4,7 +4,7 @@
  AddHandler application/x-httpd-php70 .php
  
 RewriteEngine on
-DirectoryIndex Index.php
+DirectoryIndex index.php
 
 # https://www.autofactorng.com/Index.php
 
@@ -28,9 +28,6 @@ RewriteRule ^([-\w]+)/([-\w]+)$ products.php?cat_id=$1&sub_cat_id=$2
 RewriteRule ^([-\w]+)/([-\w]+)/(\d+)$ products.php?cat_id=$1&sub_cat_id=$2&page=$3 
 
 RewriteRule ^([-\w]+)/([-\w]+).html$ product_desc.php?table=$1&slug=$2
-
-
-
 
 RewriteRule ^([-\w]+).html$ product_desc.php?pn=$1
 
