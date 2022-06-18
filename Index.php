@@ -1,7 +1,5 @@
 <?php
 
-//error_reporting(E_ALL);
-//ini_set('display_errors', 'On');
 	require_once('classes/class.db.php');
 	$page_title = 'Home';
 	require_once('includes/header.php');
