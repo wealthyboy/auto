@@ -1,24 +1,35 @@
-
-
 # Use PHP7 as default
- AddHandler application/x-httpd-php70 .php
- 
+
 RewriteEngine on
-DirectoryIndex index.php
+DirectoryIndex Index.php
+#https://www.autofactorng.com/Index.php
 
-# https://www.autofactorng.com/Index.php
+#RewriteCond %{SERVER_NAME} =autofactorng.com [OR]
+#RewriteCond %{SERVER_NAME} =www.autofactorng.com
+#RewriteRule ^ https://%{SERVER_NAME}%{REQUEST_URI} [END,NE,R=permanent]
+#RewriteCond %{SERVER_PORT} 80
+#RewriteRule ^(.*)$ $1.php
 
+#RewriteRule ^(.*)$ https://www.autofactorng.com/$1 [R=301,L]
+RewriteEngine on
+DirectoryIndex Index.php
+#https://www.autofactorng.com/Index.php
 
-RewriteCond %{SERVER_PORT} 80 
-RewriteRule ^(.*)$ https://www.autofactorng.com/$1 [R=301,L]
+#RewriteCond %{SERVER_NAME} =autofactorng.com [OR]
+#RewriteCond %{SERVER_NAME} =www.autofactorng.com
+#RewriteRule ^ https://%{SERVER_NAME}%{REQUEST_URI} [END,NE,R=permanent]
+#RewriteCond %{SERVER_PORT} 80
+#RewriteRule ^(.*)$ $1.php
 
+#RewriteRule ^(.*)$ https://www.autofactorng.com/$1 [R=301,L]
+#RewriteRule ^([-\w]+)/([-\w]+)$ products.php?cat_id=$1&sub_cat_id=$2
 #RewriteCond %{HTTP_HOST} ^autofactorng\.com$ [OR]
 #RewriteCond %{HTTP_HOST} ^www\.autofactorng\.com$
 #RewriteRule ^blog$ "http\:\/\/autofactorng\.blogspot\.com\.ng\/" [R=301,L]
 
-RewriteCond %{HTTP_HOST} ^autofactorng\.com$ [OR]
-RewriteCond %{HTTP_HOST} ^www\.autofactorng\.com$
-#RewriteRule ^cybersale$ "http\:\/\/autofactorng\.com\/products\.php\?cat_id\=10" [R=301,L]
+#RewriteCond %{HTTP_HOST} ^autofactorng\.com$ [OR]
+#RewriteCond %{HTTP_HOST} ^www\.autofactorng\.com$
+RewriteRule ^cybersale$ "http\:\/\/autofactorng\.com\/products\.php\?cat_id\=10" [R=301,L]
 
 RewriteRule ^deals/([-\w]+)$ products.php?cat_id=$1
 RewriteRule ^all/([-\w]+)$ products.php?cat_id=$1
@@ -31,8 +42,9 @@ RewriteRule ^([-\w]+)/([-\w]+).html$ product_desc.php?table=$1&slug=$2
 
 RewriteRule ^([-\w]+).html$ product_desc.php?pn=$1
 
-
-
+#RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
+#RewriteRule ^(.*)$ $1.php
 
 
 
