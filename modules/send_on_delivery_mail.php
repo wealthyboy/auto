@@ -5,18 +5,20 @@ require 'phpmailer/PHPMailerAutoload.php';
 
 $mail = new PHPMailer;
 
-//$mail->isSMTP();
+$mail->isSMTP();
 $mail->Host = 'smtp.zoho.com';
 $mail->Port = 465;
 $mail->SMTPAuth = true;
-$mail->Username = '';
-$mail->Password = '';
+$mail->Username = 'orders@autofactorng.com';
+$mail->Password = 'autofactorng080816';
 $mail->SMTPSecure = 'ssl';
 
 $mail->From = 'orders@autofactorng.com';
 $mail->FromName = 'Autofactorng Team';
 $mail->addAddress($u->email, $u->username);
-$mail->AddCC('care@autofactorng.com', 'Order');
+$mail->AddCC('orders@autofactorng.com', 'Order');
+
+
 
 //$mail->addReplyTo('orders@autofactorng.com', 'Orders');
 

@@ -1,5 +1,4 @@
-<?php 
-      ob_start();
+<?php ob_start();
       session_start(); 
       
 ?>
@@ -24,8 +23,8 @@
 	require_once $_SERVER["DOCUMENT_ROOT"].'/init/autoload.php';
 	require $_SERVER["DOCUMENT_ROOT"].'/modules/phpmailer/PHPMailerAutoload.php';
 	require_once('classes/Mailchimp.php');    // You may have to modify the path based on your own configuration.
-       $api_key = null;
-       $list_id = null;
+       $api_key = "c3bf417ca0107eb32b21ccf97300d59c-us12";
+       $list_id = "a07acc0523";
 	
 	
 	$display_form = true;
@@ -139,6 +138,7 @@
                     $_SESSION['verify_email'] =Input::get('email');
 
                 if ($data) {
+                	
             	   	    //Auto log in
             	      $user = array(
 				       'id' => $last_insert_id,
@@ -156,8 +156,8 @@
 						$mail->Host = 'smtp.zoho.com';
 						$mail->Port = 465;
 						$mail->SMTPAuth = true;
-					    $mail->Username = 'we.com';
-					    $mail->Password = ''; 
+					    $mail->Username = 'welcome@autofactorng.com';
+					    $mail->Password = 'Oriyomi_88'; 
 						$mail->SMTPSecure = 'ssl';
 						$mail->From = 'welcome@autofactorng.com';
 						$mail->FromName = 'Autofactorng Team';
