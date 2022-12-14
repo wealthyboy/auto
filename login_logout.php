@@ -3,6 +3,7 @@
 	require_once $_SERVER["DOCUMENT_ROOT"].'/init/autoload.php';
 
 	if ($_SERVER['REQUEST_METHOD'] == 'POST') {
+		
 		$user_name = DB::getInstance()->prep(Input::get('uname'));
 		$password =  DB::getInstance()->prep(Input::get('pword'));
 		$response = '';
@@ -11,8 +12,6 @@
 		   	echo $response = trim('failed');
 		   	die();
 		}
-
-		
 
 		
 	    $data = User::getInstance()->run_sql("SELECT id, first_name, last_name, address, state_id, phone FROM users where email = '$user_name' OR username = '$user_name' AND password = '$password' AND is_verified = 1 LIMIT 1");
@@ -44,4 +43,3 @@
 			echo 'logged out';
 		}
 	}
-?>
